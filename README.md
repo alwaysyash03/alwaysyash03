@@ -1,6 +1,6 @@
 👋 Hi, I'm Yash Kumar!
 
-I’m a BTech Computer Science student at Arya College of Engineering (2023–2027) with a passion for AI, machine learning, web development, and robotics. 
+I’m a BTech Computer Science student (2023–2027) with a passion for AI, machine learning, web development, and robotics. 
 
 💬 I'm deeply passionate about:
 - Speaking on *leadership* and *personal growth*
