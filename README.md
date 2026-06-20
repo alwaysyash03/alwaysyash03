@@ -27,5 +27,5 @@ Outside tech, I enjoy reading and staying updated with new innovations.
 ![](https://github-contributor-stats.vercel.app/api?username=alwaysyash03&limit=5&theme=date_night&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=alwaysyash03&icon=8&color=13)](https://visitcount.itsvg.in)
+
 
